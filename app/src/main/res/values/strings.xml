@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ABND_Project3_JonathanFernandezGomez</string>
+    <string name="answer_here">Write your answer here.</string>
+    <string name="question_1">1) Who of the followings is known as the \"\Prince of all Saiyans\"\?</string>
+    <string name="question_2">2) Name Goku\'\s most famous attack.</string>
+    <string name="question_3">3) Check all the \"\Earthlings\"\ from the following list.</string>
+    <string name="question_4">4) Name the author of this manga/anime.</string>
+    <string name="reveal_core">Reveal my score</string>
+</resources>
